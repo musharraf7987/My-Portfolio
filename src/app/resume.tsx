@@ -52,7 +52,7 @@ const SKILLS_ITEMS = [
     icon: CommandLineIcon,
     title: "Technical Skills",
     children:
-      "HTML, CSS, Java Script, Type Script, React JS, Next JS,React Native Tailwind, Bootstrap, Material UI, shadcn UI, Prime flex",
+      "HTML, CSS, Java Script, Type Script, React JS, Next JS , React Native, Tailwind, Bootstrap, Material UI, Shadcn UI, Prime flex, Salesforce Lightning Web Component",
   },
   {
     icon: SparklesIcon,
