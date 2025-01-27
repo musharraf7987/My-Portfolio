@@ -14,20 +14,12 @@ import { Children } from "react";
 const EDUCATION_ITEMS = [
   {
     icon: AcademicCapIcon,
-    title: "Bachelor of Computer Application",
-    period: "Aug 2023 - Aug 2026",
-    institution: "Barkatullah University",
+    title: "Bachelor of Technology in Artificial Intelligence and Data Science (AI & DS)",
+    period: "Aug 2021 - Aug 2025",
+    institution: " Jai Narain College of Technology",
     children:
-      "Currently pursuing BCA with focus on computer science fundamentals and practical programming skills.",
-  },
-  {
-    icon: AcademicCapIcon,
-    title: "Bachelor of Business Administration (Distance)",
-    period: "Oct 2023 - Oct 2026",
-    institution: "Jamia Millia Islamia, New Delhi",
-    children:
-      "Pursuing BBA to complement technical skills with business acumen.",
-  },
+      "Currently pursuing B-Tech in (AI & DS) with focus  practical programming skills.",
+  }
 ];
 
 const EXPERIENCE_ITEMS = [
@@ -47,22 +39,11 @@ const EXPERIENCE_ITEMS = [
     company: "Infomover Technologies",
     period: "Feb 2024 - Jan 2025",
     children: [
-      "Developed a time monitoring application using Next.js and UI component libraries",
-      "Created a mobile app using React Native for the time monitoring application",
-      "Designed marketing website using Next.js for software product showcase",
+      "I contributed to the development of a workforce monitoring platform, focusing on mobile application development using React Native. By leveraging the framework’s capabilities, I ensured the app delivered a seamless and intuitive user experience, tailored to meet the platform's specific requirements.",
+      "I designed and developed the marketing website for a workforce monitoring platform, focusing on creating a visually appealing and user-friendly interface. This included crafting custom image content using Canva and shaping the overall design to align with the platform's branding. I also oversaw the implementation of the website using Next.js, ensuring responsiveness, performance, and a seamless user experience.",
+      "I contributed to a client project for a Singapore-based company, developing a pixel-perfect, responsive design using Salesforce Lightning Web Components (LWC) as the framework. Following a detailed Figma layout, I meticulously ensured that dimensions, spacing, and styles matched the design specifications. Over a 3-month period, I worked extensively with LWC to create modular and reusable components for HTML and CSS. I designed user interfaces that adhered to the Salesforce Lightning Design System (SLDS) and followed best practices, resulting in a visually appealing and engaging user experience. additionally, I collaborated with cross-functional teams to integrate LWC components seamlessly within the Salesforce ecosystem, optimizing workflows and data accessibility.",
       "Focus on delivering intuitive and engaging user experiences",
     ],
-  },
-  {
-    icon: BriefcaseIcon,
-    title: "Fronend Developer",
-    company: "Leaf AI",
-    period: "Dec 2024 - Present",
-    children: [
-      "Developed a sensor management platform using Next.js",
-      "Utilised Material UI for components like widgets and charts",
-      "For styling using Tailwind CSS"
-    ]
   }
 ];
 
@@ -71,7 +52,7 @@ const SKILLS_ITEMS = [
     icon: CommandLineIcon,
     title: "Technical Skills",
     children:
-      "HTML, CSS, JS, TS, React.js, Next.js, Tailwind, Bootstrap, Material UI, shadcn UI",
+      "HTML, CSS, Java Script, Type Script, React JS, Next JS,React Native Tailwind, Bootstrap, Material UI, shadcn UI, Prime flex",
   },
   {
     icon: SparklesIcon,

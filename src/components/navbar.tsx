@@ -86,7 +86,7 @@ export function Navbar() {
             height={128}
             className="w-5 h-5 mr-3"
             alt="Material Tailwind"
-            src="/favicon.png"
+            src="/image/favicon.png"
           />{" "}
           <Typography
           color="blue-gray"
