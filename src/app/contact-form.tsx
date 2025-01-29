@@ -143,12 +143,12 @@ export function ContactForm() {
                   +91 7987942548
                 </Typography>
               </div>
-              <div className="flex my-2 gap-5">
-                <EnvelopeIcon className="h-6 w-6 text-white" />
+              <div className="hidden md:flex my-2 gap-5">
+                <EnvelopeIcon className="h-6  w-6 text-white" />
                 <Typography
                   variant="h6"
                   color="white"
-                  className="mb-2"
+                  className="mb-2 text-sm"
                   placeholder={undefined}
                   onPointerEnterCapture={undefined}
                   onPointerLeaveCapture={undefined}
